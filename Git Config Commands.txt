@@ -1,0 +1,16 @@
+Git Config Commands:
+
+Syntax: 
+1.$ git config -global user name "Username"
+2.$ git config -global user.email "email@gmail.com"
+3.$ git init demo
+4.$ git clone URL
+5.$ git add FileName
+6.$ git add*
+7.$ git commit -m
+8.$ git status
+9.$ git push [variable mame] master
+10.$ git push -all
+11.$ git push URL
+12.$ git merge BranchName
+13.$ git log -6
